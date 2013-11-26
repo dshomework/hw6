@@ -14,6 +14,7 @@ WaterOJ 新开张了！从今以后会成为大家主要的作业练习OJ。
 **地址：** http://198.74.100.235/wateroj/web/
 
 # 课后作业
-WaterOJ 1000 恶意IP： http://198.74.100.235/wateroj/web/problem.php?id=1000        (HASH)
+WaterOJ 1000 恶意IP： http://198.74.100.235/wateroj/web/problem.php?id=1000        (HASH)  
+
 WaterOJ 1001 土豪我们做朋友吧:  http://198.74.100.235/wateroj/web/problem.php?id=1001  (Trie)
 
